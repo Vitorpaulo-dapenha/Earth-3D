@@ -38,4 +38,8 @@ Este projeto oferece uma visualização interativa da Terra em 3D utilizando `th
 
 ## Dependências
 
-Este projeto depende de uma conexão com a internet para carregar bibliotecas e texturas.
+Este projeto depende de uma conexão com a internet para carregar bibliotecas e texturas. 
+
+## Desenvolvido por
+
+Este projeto foi desenvolvido por **Vitor Paulo da Penha**.
